@@ -1,5 +1,0 @@
-xst -intstyle ise -ifn "D:/Xilinx/comparator/decoder.xst" -ofn "D:/Xilinx/comparator/decoder.syr" 
-xst -intstyle ise -ifn "D:/Xilinx/comparator/decoder.xst" -ofn "D:/Xilinx/comparator/decoder.syr" 
-xst -intstyle ise -ifn "D:/Xilinx/comparator/decoder.xst" -ofn "D:/Xilinx/comparator/decoder.syr" 
-xst -intstyle ise -ifn "D:/Xilinx/comparator/decoder.xst" -ofn "D:/Xilinx/comparator/decoder.syr" 
-xst -intstyle ise -ifn "D:/Xilinx/comparator/decoder.xst" -ofn "D:/Xilinx/comparator/decoder.syr" 

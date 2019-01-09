@@ -1,2 +1,0 @@
-vhdl isim_temp "bcd_adder.vhd"
-vhdl isim_temp "bcd_adder_tb.vhd"

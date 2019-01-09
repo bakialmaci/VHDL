@@ -1,4 +1,0 @@
-AR tba_main behavioral D:/Xilinx/tree-bit-adder/tba_main.vhd sub00/vhpl01 1543262384
-EN half_adder NULL D:/Xilinx/tree-bit-adder/main.vhd sub00/vhpl02 1543262381
-EN tba_main NULL D:/Xilinx/tree-bit-adder/tba_main.vhd sub00/vhpl00 1543262383
-AR half_adder behavioral D:/Xilinx/tree-bit-adder/main.vhd sub00/vhpl03 1543262382

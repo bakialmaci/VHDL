@@ -1,3 +1,0 @@
-vhdl isim_temp "../three_eight_decoder/three_eight_decoder.vhd"
-vhdl isim_temp "fulladder_with_ted.vhd"
-vhdl isim_temp "fuladder_with_ted_tb.vhd"

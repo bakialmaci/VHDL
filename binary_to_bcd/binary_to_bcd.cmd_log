@@ -1,6 +1,0 @@
-xst -intstyle ise -ifn "D:/Xilinx/binary_to_bcd/binary_to_bcd.xst" -ofn "D:/Xilinx/binary_to_bcd/binary_to_bcd.syr" 
-xst -intstyle ise -ifn "D:/Xilinx/binary_to_bcd/binary_to_bcd.xst" -ofn "D:/Xilinx/binary_to_bcd/binary_to_bcd.syr" 
-xst -intstyle ise -ifn "D:/Xilinx/binary_to_bcd/binary_to_bcd.xst" -ofn "D:/Xilinx/binary_to_bcd/binary_to_bcd.syr" 
-xst -intstyle ise -ifn "D:/Xilinx/binary_to_bcd/binary_to_bcd.xst" -ofn "D:/Xilinx/binary_to_bcd/binary_to_bcd.syr" 
-xst -intstyle ise -ifn "D:/Xilinx/binary_to_bcd/binary_to_bcd.xst" -ofn "D:/Xilinx/binary_to_bcd/binary_to_bcd.syr" 
-xst -intstyle ise -ifn "D:/Xilinx/binary_to_bcd/binary_to_bcd.xst" -ofn "D:/Xilinx/binary_to_bcd/binary_to_bcd.syr" 

@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "D:/Xilinx/three_eight_decoder/ted_tb_isim_beh.exe" -prj "D:/Xilinx/three_eight_decoder/ted_tb_beh.prj" "work.ted_tb" 

@@ -1,3 +1,0 @@
-vhdl isim_temp "bcd_encoder.vhd"
-vhdl isim_temp "binary_to_bcd.vhd"
-vhdl isim_temp "binary_to_bcd_tb.vhd"

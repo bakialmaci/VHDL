@@ -1,4 +1,0 @@
-EN binary_to_bcd NULL D:/Xilinx/binary_to_bcd/binary_to_bcd.vhd sub00/vhpl00 1543867545
-AR bcd_encoder behavioral D:/Xilinx/binary_to_bcd/bcd_encoder.vhd sub00/vhpl03 1543867544
-AR binary_to_bcd behavioral D:/Xilinx/binary_to_bcd/binary_to_bcd.vhd sub00/vhpl01 1543867546
-EN bcd_encoder NULL D:/Xilinx/binary_to_bcd/bcd_encoder.vhd sub00/vhpl02 1543867543

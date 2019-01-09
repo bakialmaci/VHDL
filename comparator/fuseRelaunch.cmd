@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "D:/Xilinx/comparator/decoder_tb_isim_beh.exe" -prj "D:/Xilinx/comparator/decoder_tb_beh.prj" "work.decoder_tb" 

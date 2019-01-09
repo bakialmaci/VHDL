@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "D:/Xilinx/bcd_adder/BCD_Adder_isim_beh.exe" -prj "D:/Xilinx/bcd_adder/BCD_Adder_beh.prj" "work.BCD_Adder" 

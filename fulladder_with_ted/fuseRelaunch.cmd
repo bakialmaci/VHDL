@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "D:/Xilinx/fulladder_with_ted/fuladder_with_ted_tb_isim_beh.exe" -prj "D:/Xilinx/fulladder_with_ted/fuladder_with_ted_tb_beh.prj" "work.fuladder_with_ted_tb" 
