@@ -1,0 +1,15 @@
+xst -intstyle ise -ifn "D:/Xilinx/multiplexer/multiplexer.xst" -ofn "D:/Xilinx/multiplexer/multiplexer.syr" 
+xst -intstyle ise -ifn "D:/Xilinx/multiplexer/multiplexer.xst" -ofn "D:/Xilinx/multiplexer/multiplexer.syr" 
+xst -intstyle ise -ifn "D:/Xilinx/multiplexer/multiplexer.xst" -ofn "D:/Xilinx/multiplexer/multiplexer.syr" 
+xst -intstyle ise -ifn "D:/Xilinx/multiplexer/multiplexer.xst" -ofn "D:/Xilinx/multiplexer/multiplexer.syr" 
+xst -intstyle ise -ifn "D:/Xilinx/multiplexer/multiplexer.xst" -ofn "D:/Xilinx/multiplexer/multiplexer.syr" 
+xst -intstyle ise -ifn "D:/Xilinx/multiplexer/multiplexer.xst" -ofn "D:/Xilinx/multiplexer/multiplexer.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700a-fg484-4 multiplexer.ngc multiplexer.ngd  
+map -intstyle ise -p xc3s700a-fg484-4 -cm area -ir off -pr off -c 100 -o multiplexer_map.ncd multiplexer.ngd multiplexer.pcf 
+par -w -intstyle ise -ol high -t 1 multiplexer_map.ncd multiplexer.ncd multiplexer.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml multiplexer.twx multiplexer.ncd -o multiplexer.twr multiplexer.pcf 
+xst -intstyle ise -ifn "D:/Xilinx/multiplexer/multiplexer.xst" -ofn "D:/Xilinx/multiplexer/multiplexer.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700a-fg484-4 multiplexer.ngc multiplexer.ngd  
+map -intstyle ise -p xc3s700a-fg484-4 -cm area -ir off -pr off -c 100 -o multiplexer_map.ncd multiplexer.ngd multiplexer.pcf 
+par -w -intstyle ise -ol high -t 1 multiplexer_map.ncd multiplexer.ncd multiplexer.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml multiplexer.twx multiplexer.ncd -o multiplexer.twr multiplexer.pcf 

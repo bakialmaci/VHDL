@@ -1,0 +1,9 @@
+xst -intstyle ise -ifn "D:/Xilinx/multiplexer/funct.xst" -ofn "D:/Xilinx/multiplexer/funct.syr" 
+xst -intstyle ise -ifn "D:/Xilinx/multiplexer/funct.xst" -ofn "D:/Xilinx/multiplexer/funct.syr" 
+xst -intstyle ise -ifn "D:/Xilinx/multiplexer/funct.xst" -ofn "D:/Xilinx/multiplexer/funct.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700a-fg484-4 funct.ngc funct.ngd  
+map -intstyle ise -p xc3s700a-fg484-4 -cm area -ir off -pr off -c 100 -o funct_map.ncd funct.ngd funct.pcf 
+par -w -intstyle ise -ol high -t 1 funct_map.ncd funct.ncd funct.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml funct.twx funct.ncd -o funct.twr funct.pcf 
+xst -intstyle ise -ifn "D:/Xilinx/multiplexer/funct.xst" -ofn "D:/Xilinx/multiplexer/funct.syr" 
+xst -intstyle ise -ifn "D:/Xilinx/multiplexer/funct.xst" -ofn "D:/Xilinx/multiplexer/funct.syr" 

@@ -1,0 +1,19 @@
+V3 10
+FL D:/Xilinx/bcd_adder/bcd_adder.vhd 2018/11/28.16:26:37 P.20131013
+EN work/half_adder 1543411599 FL D:/Xilinx/bcd_adder/bcd_adder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/half_adder/Behavioral 1543411600 \
+      FL D:/Xilinx/bcd_adder/bcd_adder.vhd EN work/half_adder 1543411599
+EN work/full_adder 1543411601 \
+      FL D:/Xilinx/bcd_adder/bcd_adder.vhd PB ieee/std_logic_1164 1381692176
+AR work/full_adder/Behavioral 1543411602 \
+      FL D:/Xilinx/bcd_adder/bcd_adder.vhd EN work/full_adder 1543411601 \
+      CP half_adder
+EN work/adder4 1543411603 FL D:/Xilinx/bcd_adder/bcd_adder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/adder4/Behavioral 1543411604 \
+      FL D:/Xilinx/bcd_adder/bcd_adder.vhd EN work/adder4 1543411603
+EN work/BCD_Adder 1543411605 \
+      FL D:/Xilinx/bcd_adder/bcd_adder.vhd PB ieee/std_logic_1164 1381692176
+AR work/bcd_adder/Behavioral 1543411606 \
+      FL D:/Xilinx/bcd_adder/bcd_adder.vhd EN work/BCD_Adder 1543411605

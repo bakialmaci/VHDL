@@ -1,0 +1,3 @@
+vhdl work "../three_eight_decoder/three_eight_decoder.vhd"
+vhdl work "fulladder_with_ted.vhd"
+vhdl work "fuladder_with_ted_tb.vhd"

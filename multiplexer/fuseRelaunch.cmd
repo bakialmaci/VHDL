@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Xilinx/multiplexer/function_tb_isim_beh.exe" -prj "D:/Xilinx/multiplexer/function_tb_beh.prj" "work.function_tb" 

@@ -1,0 +1,8 @@
+V3 3
+FL D:/Xilinx/three_eight_decoder/three_eight_decoder.vhd 2018/12/01.16:48:24 P.20131013
+EN work/three_eight_decoder 1543672558 \
+      FL D:/Xilinx/three_eight_decoder/three_eight_decoder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/three_eight_decoder/Behavioral 1543672559 \
+      FL D:/Xilinx/three_eight_decoder/three_eight_decoder.vhd \
+      EN work/three_eight_decoder 1543672558

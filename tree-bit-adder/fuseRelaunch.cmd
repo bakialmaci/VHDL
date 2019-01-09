@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Xilinx/tree-bit-adder/tba_TB_isim_beh.exe" -prj "D:/Xilinx/tree-bit-adder/tba_TB_beh.prj" "work.tba_TB" 

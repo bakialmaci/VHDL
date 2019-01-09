@@ -1,0 +1,3 @@
+vhdl work "HALF_ADDER.vhd"
+vhdl work "main.vhd"
+vhdl work "main_tb.vhd"

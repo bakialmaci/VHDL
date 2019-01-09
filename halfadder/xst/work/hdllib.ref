@@ -1,0 +1,4 @@
+EN halfadder NULL D:/Xilinx/halfadder/halfadder.vhd sub00/vhpl02 1543322513
+EN half_adder NULL D:/Xilinx/halfadder/main.vhd sub00/vhpl00 1543236661
+AR halfadder behavioral D:/Xilinx/halfadder/halfadder.vhd sub00/vhpl03 1543322514
+AR half_adder behavioral D:/Xilinx/halfadder/main.vhd sub00/vhpl01 1543236662

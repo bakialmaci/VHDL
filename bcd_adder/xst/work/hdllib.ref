@@ -1,0 +1,16 @@
+EN bcd_adder NULL D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl08 1543411605
+AR andgate func D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl03 1543408352
+EN orgate NULL D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl04 1543408353
+EN half_adder NULL D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl10 1543411599
+EN xorgate NULL D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl06 1543408355
+AR xorgate func D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl07 1543408356
+AR full_adder func D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl01 1543408350
+EN adder4 NULL D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl14 1543411603
+AR adder4 behavioral D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl15 1543411604
+AR bcd_adder struct D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl09 1543408358
+AR full_adder behavioral D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl13 1543411602
+EN full_adder NULL D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl00 1543411601
+EN andgate NULL D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl02 1543408351
+AR bcd_adder behavioral D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl11 1543411606
+AR half_adder behavioral D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl12 1543411600
+AR orgate func D:/Xilinx/bcd_adder/bcd_adder.vhd sub00/vhpl05 1543408354

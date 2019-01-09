@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Xilinx/binary_to_bcd/bcd_encoder.xst" -ofn "D:/Xilinx/binary_to_bcd/bcd_encoder.syr" 

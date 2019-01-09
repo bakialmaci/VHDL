@@ -1,0 +1,2 @@
+vhdl work "bcd_encoder.vhd"
+vhdl work "binary_to_bcd.vhd"

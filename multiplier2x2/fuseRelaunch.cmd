@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Xilinx/multiplier2x2/main_tb_isim_beh.exe" -prj "D:/Xilinx/multiplier2x2/main_tb_beh.prj" "work.main_tb" 

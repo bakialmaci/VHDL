@@ -1,0 +1,12 @@
+V3 7
+FL D:/Xilinx/binary_to_bcd/bcd_encoder.vhd 2018/12/03.02:53:46 P.20131013
+EN work/bcd_encoder 1543867543 FL D:/Xilinx/binary_to_bcd/bcd_encoder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/bcd_encoder/Behavioral 1543867544 \
+      FL D:/Xilinx/binary_to_bcd/bcd_encoder.vhd EN work/bcd_encoder 1543867543
+FL D:/Xilinx/binary_to_bcd/binary_to_bcd.vhd 2018/12/03.03:11:14 P.20131013
+EN work/binary_to_bcd 1543867545 FL D:/Xilinx/binary_to_bcd/binary_to_bcd.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/binary_to_bcd/Behavioral 1543867546 \
+      FL D:/Xilinx/binary_to_bcd/binary_to_bcd.vhd EN work/binary_to_bcd 1543867545 \
+      CP bcd_encoder

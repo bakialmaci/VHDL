@@ -1,0 +1,3 @@
+vhdl isim_temp "HALF_ADDER.vhd"
+vhdl isim_temp "main.vhd"
+vhdl isim_temp "main_tb.vhd"
