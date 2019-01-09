@@ -1,0 +1,12 @@
+V3 7
+FL D:/Xilinx/comparator/comparator.vhd 2018/12/02.02:21:03 P.20131013
+EN work/comparator 1543706467 FL D:/Xilinx/comparator/comparator.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/comparator/Behavioral 1543706468 \
+      FL D:/Xilinx/comparator/comparator.vhd EN work/comparator 1543706467 \
+      CP decoder
+FL D:/Xilinx/comparator/decoder.vhd 2018/12/02.01:39:51 P.20131013
+EN work/decoder 1543869137 FL D:/Xilinx/comparator/decoder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/decoder/Behavioral 1543869138 \
+      FL D:/Xilinx/comparator/decoder.vhd EN work/decoder 1543869137
