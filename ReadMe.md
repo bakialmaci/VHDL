@@ -1,6 +1,6 @@
 # VHDL Code Examples
 
-These are examples that are made for college education.
+These examples that are made for college education.
 
 ## Usage
 
