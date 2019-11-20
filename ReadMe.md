@@ -1,6 +1,6 @@
 # VHDL Code Examples
 
-These examples that are made for college education.
+These examples that are made involving Hacettepe Electrical and Electronics Engineering ELE227 Lab Lecture.
 
 ## Usage
 
