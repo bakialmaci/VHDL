@@ -10,8 +10,9 @@ If you have more material that involving digital design topics , don't hesitate 
 
 ## More Contact
 bakialmaci@gmail.com
+
 if you looking for more material that related in the engineering you can visit our robotics society website.
-Hunrobotx[robot.ee.hacettepe.edu.tr]
+Hunrobotx[http://robot.ee.hacettepe.edu.tr]
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
