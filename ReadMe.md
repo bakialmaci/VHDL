@@ -1,19 +1,19 @@
 # VHDL Code Examples
 
-These examples that are made involving Hacettepe Electrical and Electronics Engineering ELE227 Lab Lecture.
+This repository made for help the Hacettepe Electrical and Electronics Engineering students.
 
 ## Usage
-
 Install Xilinx ISE from their official [website](http://www.xilinx.com).
 
-
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+If you have more material that involving digital design topics , don't hesitate to contribute.
 
 ## More Contact
 bakialmaci@gmail.com
+
+If you looking for more material that related in the engineering you can visit our robotics society website.
+
+[Hunrobotx](http://robot.ee.hacettepe.edu.tr)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
